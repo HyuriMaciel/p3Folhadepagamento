@@ -6,7 +6,7 @@ de ponto. O sistema deve pagar cada empregado. Empregados devem receber o salár
 momento correto, usando o método que eles preferem. Além do mais, várias taxas e impostos são
 deduzidos do seu salário.
 
-Projeto refetente a disciplina de Projeto de Software do curso Ciência da Computação - UFAL
+Projeto referente a disciplina de Projeto de Software do curso Ciência da Computação - UFAL
 
 Funções do projeto:
 
