@@ -11,12 +11,21 @@ Projeto refetente a disciplina de Projeto de Software do curso Ciência da Compu
 Funções do projeto:
 
 1- Adição de um empregado
+
 2- Remoção de um empregado
+
 3- Lançar cartão de ponto
+
 4- Lançar um Resultado Venda
+
 5- Lançar uma taxa de Serviço
+
 6- Alterar detalhes de um empregado
+
 7- Rodar a folha de pagamento para hoje
+
 8- Undo/Redo
+
 9- Agenda de Pagamento
+
 10 -Criação de Novas Agendas de Pagamento
